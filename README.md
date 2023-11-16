@@ -26,7 +26,7 @@ The Interactive Learning Platform's focus on AI is not merely a technological ad
 
 Looking for:
 
-As we navigate the dynamic landscape of AI-driven education, we invite educators, AI specialists, and school administrators to join us in this groundbreaking initiative. Your collaboration and expertise are key to shaping the future of AI-driven learning in schools.
+As we navigate the dynamic landscape of AI-driven education, we invite educators, AI specialists, school administrators, and any open mind to join us in this groundbreaking initiative Your collaboration and expertise are key to shaping the future of AI-driven learning in schools.
 
 Current Progress:
 
