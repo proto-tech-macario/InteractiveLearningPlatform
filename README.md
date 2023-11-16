@@ -1,9 +1,6 @@
-
-Absolutely, Macario! Let's tailor the description to highlight the focus on AI and the potential integration for schools:
-
 Interactive Learning Platform: AI-Driven Education for Schools
 
-Embark on a transformative journey with the Interactive Learning Platform, a pioneering educational initiative led by the visionary 11-year-old mind of Macario. This project stands at the intersection of cutting-edge Artificial Intelligence and the future of learning, with a specific emphasis on seamless integration into school environments.
+Embark on a transformative journey with the Interactive Learning Platform, a pioneering educational initiative. This project stands at the intersection of cutting-edge Artificial Intelligence and the future of learning, with a specific emphasis on seamless integration into school environments.
 
 Key Features:
 
@@ -37,6 +34,6 @@ The project has entered the coding phase, laying the groundwork for an AI-driven
 
 Let's Connect:
 
-[GitHub Repository Link - Insert Your Repository Link Here]
+[GitHub Repository Link - (https://github.com/proto-tech-macario/InteractiveLearningPlatform)]
 
 Connect with us on this exciting expedition to redefine education through the transformative power of AI! 🚀🤖📚
